@@ -1,4 +1,4 @@
-Hi, I'm Leopoldo.
+# Hi, I'm Leopoldo.
 
 I sit at the intersection of literature and technology. As the founder of Grupo Aboio, I've experienced the Brazilian publishing ecosystem firsthand. Now, through [@Aboio Labs](https://github.com/aboio-Labs/), I'm bridging the gap between editorial work and software engineering.
 
